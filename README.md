@@ -3,7 +3,6 @@
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-EF4223?style=for-the-badge&logo=codeigniter&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-
 ![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=bangladesh&logoColor=white)
 
 
