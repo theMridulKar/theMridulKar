@@ -5,8 +5,7 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=bangladesh&logoColor=white)
-![🇧🇩 Bangladesh](https://img.shields.io/badge/🇧🇩%20Bangladesh-006A4E?style=for-the-badge&logoColor=white)
-
+![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=data:image/png;base64,...)
 
 I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter** frameworks. I build scalable backend systems, clean RESTful, GraphQL APIs, and full-stack web applications with modern PHP practices. I love turning business logic into elegant code and solving real-world problems through tech.
 
