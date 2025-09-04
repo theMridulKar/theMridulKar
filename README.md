@@ -5,7 +5,6 @@
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white)
 ![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=bangladesh&logoColor=white)
-![Bangladesh](https://img.shields.io/badge/Bangladesh-006A4E?style=for-the-badge&logo=data:image/png;base64,...)
 
 I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter** frameworks. I build scalable backend systems, clean RESTful, GraphQL APIs, and full-stack web applications with modern PHP practices. I love turning business logic into elegant code and solving real-world problems through tech.
 
@@ -14,8 +13,8 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 ## 🛠️ Tech Stack
 
 - ⚙️ Backend: `PHP`, `Laravel`, `CodeIgniter`, `REST API`, `GraphQL`
-- 🧩 Frontend: `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `Vue.js`
-- 🗃️ Database: `MySQL`, `PostgreSQL`
+- 🧩 Frontend: `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `React.js`
+- 🗃️ Database: `MySQL`
 - 🔧 Tools: `Git`, `Composer`, `Postman`, `XAMPP`, `Valet`, `phpMyAdmin`
 - ☁️ Deployment: `Linux`, `Nginx`, `Apache`, `cPanel`, `Shared/VPS Hosting`
 
