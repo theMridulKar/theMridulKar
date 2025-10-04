@@ -47,7 +47,7 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 
 ## 🔭 Currently Working On
 
-- Laravel AI Assistant for Admin Panels (Natural Language → Query)  
+- Diagnostic Management System  
 
 ---
 
