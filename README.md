@@ -41,7 +41,7 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/themridulkar)  
 - ✉️ Email: [themridulkar@gmail.com](mailto:mridulkar.connect@gmail.com)  
-- 🌐 Website: https://mridul-karrvise.page
+- 🌐 Website: https://mridul-kar.vise.page
 
 ---
 
