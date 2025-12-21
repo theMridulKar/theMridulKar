@@ -14,9 +14,9 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 
 - ⚙️ Backend: `PHP`, `Laravel`, `CodeIgniter`, `REST API`, `GraphQL`
 - 🧩 Frontend: `HTML`, `CSS`, `JavaScript`, `jQuery`, `Bootstrap`, `React.js`
-- 🗃️ Database: `MySQL`
-- 🔧 Tools: `Git`, `Composer`, `Postman`, `XAMPP`, `Valet`, `phpMyAdmin`
-- ☁️ Deployment: `Linux`, `Nginx`, `Apache`, `cPanel`, `Shared/VPS Hosting`
+- 🗃️ Storage & Queues:: `MySQL`, `Redis`, `RdKafka`
+- 🔧 Tools: `Linux (Nginx/Apache)`, `AWS S3`, `DigitalOcean`, `Git`, `CI/CD`
+- ☁️ Devops & Cloud: `Composer`, `Postman`, `Docker`, `phpMyAdmin`
 
 ---
 
@@ -47,7 +47,7 @@ I'm a passionate **PHP Developer** specializing in **Laravel** and **CodeIgniter
 
 ## 🔭 Currently Working On
 
-- Diagnostic Management System  
+- SaaS Architecture  
 
 ---
 
