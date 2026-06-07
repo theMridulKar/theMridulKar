@@ -21,7 +21,7 @@
 
 <div align="center">
 
-### Languages
+### <samp>Languages</samp>
 ![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
@@ -29,14 +29,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=mysql)
 
-### Frameworks & Technologies
+### <samp>Frameworks & Technologies</samp>
 ![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?style=flat-square&logo=codeigniter)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis)
 
-### Infrastructure & DevOps
+### <samp>Infrastructure & DevOps</samp>
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache)
@@ -84,8 +84,8 @@
 ---
 
 <div align="center">
-  <h3>Get In Touch</h3>
-  <p>Feel free to reach out for collaborations, technical discussions, or just to hang out!</p>
+  ### <samp>Get In Touch</samp>
+  <samp>Feel free to reach out for collaborations, technical discussions, or just to hang out!</samp>
   
   <a href="mailto:mridulkar.connect@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
