@@ -9,7 +9,7 @@
         「 Focused on creating impactful web applications that improve lives 」
     </samp>
 
-<samp>🛠️ Languages & Frameworks</samp>
+<h4>🛠️ Languages & Frameworks</h4>
     <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PHP" src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white"></a>
     <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Laravel" src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white"></a>
     <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CodeIgniter" src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white"></a>
