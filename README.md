@@ -19,7 +19,7 @@
 
 <div align="center">
 
-### 🛠️ Languages
+### Languages
 ![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
@@ -27,14 +27,14 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
 ![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
 
-### 🚀 Frameworks & Technologies
+### Frameworks & Technologies
 ![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=codeigniter)
 ![React](https://img.shields.io/badge/-React-000?&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
 ![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
 
-### ⚙️ Infrastructure & DevOps
+### Infrastructure & DevOps
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
 ![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)
 ![Apache](https://img.shields.io/badge/-Apache-000?&logo=apache)
