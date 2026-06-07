@@ -14,8 +14,8 @@
                 <br>
                 <br>
         </samp>
-
-        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PHP"
+    
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PHP"
     src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
 </a>
 <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Laravel"
