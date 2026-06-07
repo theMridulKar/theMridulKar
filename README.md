@@ -11,10 +11,6 @@
 </div>
 
 ```
-/* 
- * PHP & JavaScript Skillset Interface
- */
-
 $mridul_kar = [
     'role'         => 'Senior Full Stack Developer',
     'location'     => 'Dhaka, Bangladesh',
@@ -28,8 +24,6 @@ $mridul_kar = [
     'status'       => 'Open for innovation'
 ];
 
-// Usage in JavaScript:
-// const mridul = { ...mridul_kar };
 ```
 
 ## 🚀 Professional Highlights
