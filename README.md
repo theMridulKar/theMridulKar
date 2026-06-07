@@ -14,6 +14,37 @@
                 <br>
                 <br>
         </samp>
+
+        <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PHP"
+    src="https://img.shields.io/badge/-PHP-777BB4?style=flat-square&logo=php&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Laravel"
+    src="https://img.shields.io/badge/-Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="CodeIgniter"
+    src="https://img.shields.io/badge/-CodeIgniter-EF4223?style=flat-square&logo=codeigniter&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Node.js"
+    src="https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="React"
+    src="https://img.shields.io/badge/-React-02cdf1?style=flat-square&logo=react&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Nginx"
+    src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Apache"
+    src="https://img.shields.io/badge/-Apache-D22128?style=flat-square&logo=apache&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Docker"
+    src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="AWS"
+    src="https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white">
+</a>
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="DigitalOcean"
+    src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white">
+</a>
         
 </p>
 
