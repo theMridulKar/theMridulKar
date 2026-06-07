@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://github.com/matyo91/matyo91/raw/main/assets/github.gif" alt="Hi, I'm Mridul Kar 👋 I'm a 🚀 Bangladeshi developer 🚀 I ❤️ Happy Hardcore ❤️">
+</p>
+
 # Hi, I'm Mridul Kar! 👋
 
 Backend-focused **Full-Stack Engineer** with nearly 5 years of experience in designing and developing scalable web applications. Passionate about system design, maintainable architecture, and building reliable, high-performance business solutions.
