@@ -56,7 +56,7 @@
 </div>
 
 <p align="justify">
-  My journey has evolved from being a dedicated developer into a <b>Tech Lead</b> who bridges the gap between complex business logic and robust system architecture. I believe in writing code that is not only functional but also maintainable and scalable.
+  ᴹʸ ʲᵒᵘʳⁿᵉʸ ʰᵃˢ ᵉᵛᵒˡᵛᵉᵈ ᶠʳᵒᵐ ᵇᵉⁱⁿᵍ ᵃ ᵈᵉᵈⁱᶜᵃᵗᵉᵈ ᵈᵉᵛᵉˡᵒᵖᵉʳ ⁱⁿᵗᵒ ᵃ ᵀᵉᶜʰ ᴸᵉᵃᵈ ʷʰᵒ ᵇʳⁱᵈᵍᵉˢ ᵗʰᵉ ᵍᵃᵖ ᵇᵉᵗʷᵉᵉⁿ ᶜᵒᵐᵖˡᵉˣ ᵇᵘˢⁱⁿᵉˢˢ ˡᵒᵍⁱᶜ ᵃⁿᵈ ʳᵒᵇᵘˢᵗ ˢʸˢᵗᵉᵐ ᵃʳᶜʰⁱᵗᵉᶜᵗᵘʳᵉ. ᴵ ᵇᵉˡⁱᵉᵛᵉ ⁱⁿ ʷʳⁱᵗⁱⁿᵍ ᶜᵒᵈᵉ ᵗʰᵃᵗ ⁱˢ ⁿᵒᵗ ᵒⁿˡʸ ᶠᵘⁿᶜᵗⁱᵒⁿᵃˡ ᵇᵘᵗ ᵃˡˢᵒ ᵐᵃⁱⁿᵗᵃⁱⁿᵃᵇˡᵉ ᵃⁿᵈ ˢᶜᵃˡᵃᵇˡᵉ.
 </p>
 
 <div align="center">
