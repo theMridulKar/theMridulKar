@@ -1,6 +1,6 @@
 <h3 align="center">
         <samp>&gt; Hey There!, I am
-                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Mridul Kar</a></b>
         </samp>
 </h3>
 <br>
@@ -14,17 +14,16 @@
                 <br>
                 <br>
         </samp>
-        <!-- Technologies -->
+        
+</p>
+
+
         ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
         ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
         ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
         ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
         ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-</p>
 
-
-
----
 
 ## 🚀 Professional Highlights
 - **Multi-Tenant SaaS Expert:** Architected scalable ERP solutions with hybrid database switching logic.
