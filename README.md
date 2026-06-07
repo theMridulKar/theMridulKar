@@ -48,7 +48,7 @@
 ---
 
 <div align="center">
-<samp>
+
 ### My Philosophy
 <em>"Engineering is not just about writing code; it’s about architecting solutions that scale and fostering a culture of excellence."</em>
 
@@ -73,7 +73,7 @@
 <b>Currently sharpening my expertise in DevOps & Cloud Infrastructure to build seamless, resilient production systems.</b>
 
 </div>
-</samp>
+
 ---
 
 <div align="center">
