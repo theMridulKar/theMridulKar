@@ -31,7 +31,7 @@ Backend-focused **Full-Stack Engineer** with nearly 5 years of experience in des
 
 ---
 
-# Let's Connect :
+# Contact Me :
 
 <p>
  </br>
@@ -42,7 +42,7 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 <a href="mailto:mridulkar.connect@gmail.com">
  <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
 </a>
-<a href="https://www.linkedin.com/in/theMridulKar">
+<a href="https://www.linkedin.com/in/theMridulKar/">
   <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
 </br>
 </br>
@@ -51,6 +51,10 @@ If you want to reach out to me about anything, be it some doubt or just to hango
 
 
 
+<p align="center" >  
+  <a href="https://github.com/anuraghazra/github-readme-stats"> 
+<img  src="https://github-readme-stats.vercel.app/api?username=Xx-Ashutosh-xX&&show_icons=true&theme=radical"/>
+  </a>
+  </p>
 
----
-> *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+*************
