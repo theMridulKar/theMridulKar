@@ -61,7 +61,7 @@
 
 <div align="center">
 
-### 🛠 The Lead Perspective
+### The Lead Perspective
 
 </div>
 
@@ -80,18 +80,16 @@
 
 
 <div align="center">
-  <h3> Get In Touch</h3>
+  <h3>Get In Touch</h3>
   <p>Feel free to reach out for collaborations, technical discussions, or just to hang out!</p>
   
-  <br>
-  
-  <!-- Gmail (Minimalistic SVG Icon) -->
+  <!-- Gmail Icon (Dark Greenish/Professional) -->
   <a href="mailto:mridulkar.connect@gmail.com" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" alt="Gmail" width="40" height="40" style="margin-right: 20px;"/>
+    <img src="https://img.shields.io/badge/Gmail-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 5px;"/>
   </a>
   
-  <!-- LinkedIn (Minimalistic SVG Icon) -->
+  <!-- LinkedIn Icon (Dark Greenish/Professional) -->
   <a href="https://www.linkedin.com/in/theMridulKar/" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="LinkedIn" width="40" height="40"/>
+    <img src="https://img.shields.io/badge/LinkedIn-006097?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;"/>
   </a>
 </div>
