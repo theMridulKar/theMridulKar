@@ -84,13 +84,18 @@
 ---
 
 <div align="center">
-  ### <samp>Get In Touch</samp>
-  <samp>Feel free to reach out for collaborations, technical discussions, or just to hang out!</samp>
-  
-  <a href="mailto:mridulkar.connect@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
-  </a>
-  <a href="https://www.linkedin.com/in/theMridulKar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
+
+### <samp>Get In Touch</samp>
+<samp>Feel free to reach out for collaborations, technical discussions, or just to hang out!</samp>
+
+<br>
+
+<a href="mailto:mridulkar.connect@gmail.com" target="_blank">
+  <img src="https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/theMridulKar/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
+
 </div>
