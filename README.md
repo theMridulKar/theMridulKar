@@ -12,38 +12,38 @@
 
 <br>
 
-<div align="center"> 
-  <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%"> </div> <br> <div align="center"> <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/> 
+<div align="center">
+    <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/0c7eb6ed-663b-4ce4-bfbd-18239a38ba1b" width="70%">
+    <br><br>
+    <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=60&section=header&width=100"/>
 </div>
-
 
 <div align="center">
 
 ### Languages
-![PHP](https://img.shields.io/badge/-PHP-000?&logo=php)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=javascript)
-![TypeScript](https://img.shields.io/badge/-TypeScript-000?&logo=typescript)
-![HTML5](https://img.shields.io/badge/-HTML5-000?&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-000?&logo=css3)
-![SQL](https://img.shields.io/badge/-SQL-000?&logo=mysql)
+![PHP](https://img.shields.io/badge/-PHP-000?style=flat-square&logo=php)
+![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat-square&logo=javascript)
+![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
+![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
+![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=mysql)
 
 ### Frameworks & Technologies
-![Laravel](https://img.shields.io/badge/-Laravel-000?&logo=laravel)
-![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?&logo=codeigniter)
-![React](https://img.shields.io/badge/-React-000?&logo=react)
-![Node.js](https://img.shields.io/badge/-Node.js-000?&logo=node.js)
-![Redis](https://img.shields.io/badge/-Redis-000?&logo=redis)
+![Laravel](https://img.shields.io/badge/-Laravel-000?style=flat-square&logo=laravel)
+![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?style=flat-square&logo=codeigniter)
+![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
+![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
+![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis)
 
 ### Infrastructure & DevOps
-![Docker](https://img.shields.io/badge/-Docker-000?&logo=docker)
-![Nginx](https://img.shields.io/badge/-Nginx-000?&logo=nginx)
-![Apache](https://img.shields.io/badge/-Apache-000?&logo=apache)
-![Linux](https://img.shields.io/badge/-Linux-000?&logo=linux)
-![AWS](https://img.shields.io/badge/-AWS-000?&logo=amazonaws&logoColor=F90)
-![Git](https://img.shields.io/badge/-Git-000?&logo=git)
+![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
+![Nginx](https://img.shields.io/badge/-Nginx-000?style=flat-square&logo=nginx)
+![Apache](https://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache)
+![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
+![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=F90)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 
 </div>
-
 
 ---
 
@@ -64,14 +64,13 @@
 
 </div>
 
-*   **Architecting Systems:** I specialize in designing <b>Multi-tenant SaaS ERPs</b> and implementing <b>Hexagonal Architecture with DDD</b>. For me, software design is about creating structures that stand the test of time and traffic.
-*   **Engineering Excellence:** I focus on the "heavy lifting"—optimizing high-traffic systems with <b>Redis caching</b>, ensuring security through <b>APK hardening</b>, and managing complex integrations across large-scale enterprise environments.
-*   **Leading Teams:** Beyond the editor, I am passionate about project management and mentoring. As a lead, my goal is to guide teams in adopting clean code practices and solving complex technical roadblocks together.
+- **Architecting Systems:** I specialize in designing <b>Multi-tenant SaaS ERPs</b> and implementing <b>Hexagonal Architecture with DDD</b>. For me, software design is about creating structures that stand the test of time and traffic.
+- **Engineering Excellence:** I focus on the "heavy lifting"—optimizing high-traffic systems with <b>Redis caching</b>, ensuring security through <b>APK hardening</b>, and managing complex integrations across large-scale enterprise environments.
+- **Leading Teams:** Beyond the editor, I am passionate about project management and mentoring. As a lead, my goal is to guide teams in adopting clean code practices and solving complex technical roadblocks together.
 
 <div align="center">
-
-<b>Currently sharpening my expertise in DevOps & Cloud Infrastructure to build seamless, resilient production systems.</b>
-
+  <br>
+  <b>Currently sharpening my expertise in DevOps & Cloud Infrastructure to build seamless, resilient production systems.</b>
 </div>
 
 ---
@@ -80,13 +79,10 @@
   <h3>Get In Touch</h3>
   <p>Feel free to reach out for collaborations, technical discussions, or just to hang out!</p>
   
-  <!-- Gmail Icon (Dark Greenish/Professional) -->
   <a href="mailto:mridulkar.connect@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-1a73e8?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="border-radius: 5px;"/>
+    <img src="https://img.shields.io/badge/Gmail-1B4332?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
-  
-  <!-- LinkedIn Icon (Dark Greenish/Professional) -->
   <a href="https://www.linkedin.com/in/theMridulKar/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-006097?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="border-radius: 5px;"/>
+    <img src="https://img.shields.io/badge/LinkedIn-1B4332?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </div>
