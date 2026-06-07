@@ -1,12 +1,28 @@
-# Hi, I'm Mridul Kar! 👋
+<h3 align="center">
+        <samp>&gt; Hey There!, I am
+                <b><a target="_blank" href="https://shahriarshafin.github.io/">Shahriar Shafin</a></b>
+        </samp>
+</h3>
+<br>
 
-Backend-focused **Full-Stack Engineer** with nearly 5 years of experience in designing and developing scalable web applications. Passionate about system design, maintainable architecture, and building reliable, high-performance business solutions.
+<p align="center">
+        <!-- Intro -->
+        <samp>
+                「 I'm a software developer from <b>Bangladesh</b> 」
+                <br>
+                「 Focused on creating impactful web applications that improve lives</b> 」
+                <br>
+                <br>
+        </samp>
+        <!-- Technologies -->
+        ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+        ![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+        ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+        ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+        ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+</p>
 
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ---
 
