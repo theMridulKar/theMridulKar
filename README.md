@@ -23,7 +23,6 @@ $mridul_kar = [
     'current_goal' => 'Mastering DevOps and Scalable Architecture',
     'status'       => 'Open for innovation'
 ];
-
 ```
 
 ## 🚀 Professional Highlights
