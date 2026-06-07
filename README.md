@@ -66,13 +66,6 @@ $mridul_kar = [
 
 ---
 
-## 🛠 Tech Stack
-- **Backend:** PHP, Laravel, CodeIgniter, Node.js (Familiar), REST & GraphQL APIs.
-- **Frontend:** JavaScript, React.js, jQuery, Bootstrap, HTML5/CSS3.
-- **Data & DevOps:** PostgreSQL, MySQL, Redis, Kafka, AWS (EC2/S3), Docker, CI/CD.
-
----
-
 ## 📌 Featured Projects
 - **[Restora POS](https://restorapos.com/)**: Multi-tenant SaaS ERP for restaurants.
 - **[SaaS Skull](https://github.com/theMridulKar/saas-skull)**: Hexagonal Architecture & DDD-based ERP.
