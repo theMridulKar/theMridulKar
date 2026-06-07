@@ -45,6 +45,31 @@
 <a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="DigitalOcean"
     src="https://img.shields.io/badge/-DigitalOcean-0080FF?style=flat-square&logo=digitalocean&logoColor=white">
 </a>
+
+<!-- Git -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Git"
+    src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white">
+</a>
+<!-- Redis -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Redis"
+    src="https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white">
+</a>
+<!-- Kafka -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="Kafka"
+    src="https://img.shields.io/badge/-Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white">
+</a>
+<!-- MySQL -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="MySQL"
+    src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white">
+</a>
+<!-- MariaDB -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="MariaDB"
+    src="https://img.shields.io/badge/-MariaDB-003545?style=flat-square&logo=mariadb&logoColor=white">
+</a>
+<!-- PostgreSQL -->
+<a href="https://github.com/ShahriarShafin?tab=repositories" target="_blank"><img alt="PostgreSQL"
+    src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white">
+</a>
         
 </p>
 
