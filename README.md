@@ -77,9 +77,17 @@
 <br>
 
 <div align="center">
-  <b>Currently sharpening my expertise in DevOps & Cloud Infrastructure to build seamless, resilient production systems.</b>
-</div>
 
+### <samp>Current Focus</samp>
+
+```bash
+$ devops-roadmap --action "sharpening" \
+                 --domain "Cloud-Infrastructure" \
+                 --goal "Seamless & Resilient Systems" \
+                 --status "In-Progress"
+
+# Building for production-grade reliability.
+```
 </samp>
 
 ---
