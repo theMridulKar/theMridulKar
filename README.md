@@ -76,6 +76,9 @@
 
 <br>
 
+</samp>
+
+---
 <div align="center">
 
 ### <samp>Current Focus</samp>
@@ -88,10 +91,6 @@ $ devops-roadmap --action "sharpening" \
 
 # Building for production-grade reliability.
 ```
-</samp>
-
----
-
 <div align="center">
 
 ### <samp>Get In Touch</samp>
