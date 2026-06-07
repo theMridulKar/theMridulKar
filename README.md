@@ -76,14 +76,15 @@ $mridul_kar = [
 <div align="center">
     <h3>Get In Touch</h3>
     <p>Feel free to reach out for collaborations, technical discussions, or just to hang out!</p>
+    
 <a href="mailto:mridulkar.connect@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-    </a>
-    <a href="https://www.linkedin.com/in/theMridulKar/">
-        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
+        <img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Gmail">
+</a>
+<a href="https://www.linkedin.com/in/theMridulKar/">
+        <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn">
+</a>
 </div>
-*************
+<br>
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
