@@ -73,15 +73,16 @@ $mridul_kar = [
 
 ---
 
-### Contact Me :
-<p>
-If you want to reach out to me about anything, be it some doubt or just to hangout and talk or want to game together just ping me.
+<div align="center">
+    <h3>Get In Touch</h3>
+    <p>Feel free to reach out for collaborations, technical discussions, or just to hang out!</p>
 <a href="mailto:mridulkar.connect@gmail.com">
- <img align="left" alt="Gmail" width="130" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/gmail.png" />
-</a>
-<a href="https://www.linkedin.com/in/theMridulKar/">
-  <img align="left" alt="Linkedin" width="150" hight="100" src="https://github.com/Xx-Ashutosh-xX/Xx-Ashutosh-xX/blob/master/assets/icons/linkedin.png" />
-</a>
+        <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
+    </a>
+    <a href="https://www.linkedin.com/in/theMridulKar/">
+        <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    </a>
+</div>
 *************
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
