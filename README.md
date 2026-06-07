@@ -44,34 +44,15 @@
 
 </div>
 
-```
-$mridul_kar = [
-    'role'         => 'Senior Full Stack Developer',
-    'location'     => 'Dhaka, Bangladesh',
-    'stack'        => [
-        'backend'  => ['PHP', 'Laravel', 'CodeIgniter', 'Node.js'],
-        'frontend' => ['React', 'JavaScript', 'TypeScript', 'HTML/CSS'],
-        'data'     => ['MySQL', 'PostgreSQL', 'Redis'],
-        'devOps'   => ['Docker', 'Nginx', 'AWS', 'Kafka', 'Git']
-    ],
-    'current_goal' => 'Mastering DevOps and Scalable Architecture',
-    'status'       => 'Open for innovation'
-];
-```
 
-## 🚀 Professional Highlights
-- **Multi-Tenant SaaS Expert:** Architected scalable ERP solutions with hybrid database switching logic.
-- **Security & Optimization:** Implemented APK hardening, Redis-based caching, and performance tuning for high-traffic systems.
-- **Enterprise Solutions:** Developed POS systems for 16+ restaurant branches and complex HRMS platforms.
+### Professional Highlights & Featured Projects
 
----
+| Professional Highlights | Featured Projects | Key Outcomes |
+| :--- | :--- | :--- |
+| **Multi-Tenant SaaS Expert** | **[Restora POS](https://restorapos.com/)** | Architected scalable ERP solutions with hybrid database switching logic. |
+| **Security & Optimization** | **[SaaS Skull](https://github.com/theMridulKar/saas-skull)** | Implemented APK hardening, Redis-based caching, and performance tuning. |
+| **Enterprise Solutions** | **[Monica CRM Tagging](https://github.com/theMridulKar/monica-crm-advanced-tag-system)** | Developed POS for 16+ restaurant branches and complex HRMS platforms. |
 
-## 📌 Featured Projects
-- **[Restora POS](https://restorapos.com/)**: Multi-tenant SaaS ERP for restaurants.
-- **[SaaS Skull](https://github.com/theMridulKar/saas-skull)**: Hexagonal Architecture & DDD-based ERP.
-- **[Monica CRM Tagging System](https://github.com/theMridulKar/monica-crm-advanced-tag-system)**: Decoupled tagging module using Redis & Docker.
-
----
 
 <div align="center">
     <h3>Get In Touch</h3>
