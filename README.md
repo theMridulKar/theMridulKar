@@ -95,13 +95,6 @@
 </samp>
 
 ---
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=theMridulKar&show_icons=true&theme=dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theMridulKar&layout=compact&theme=dark)
----
-
-
----
 <div align="center">
 
 ### <samp>Current Focus</samp>
