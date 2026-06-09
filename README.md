@@ -36,7 +36,11 @@
 ![CodeIgniter](https://img.shields.io/badge/-CodeIgniter-000?style=flat-square&logo=codeigniter)
 ![React](https://img.shields.io/badge/-React-000?style=flat-square&logo=react)
 ![Node.js](https://img.shields.io/badge/-Node.js-000?style=flat-square&logo=nodedotjs)
+![MySQL](https://img.shields.io/badge/-MySQL-000?style=flat-square&logo=mysql)
+![MariaDB](https://img.shields.io/badge/-MariaDB-000?style=flat-square&logo=mariadb)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-000?style=flat-square&logo=postgresql)
 ![Redis](https://img.shields.io/badge/-Redis-000?style=flat-square&logo=redis)
+![Apache Kafka](https://img.shields.io/badge/-Apache%20Kafka-000?style=flat-square&logo=apachekafka)
 
 ### <samp>Infrastructure & DevOps</samp>
 ![Docker](https://img.shields.io/badge/-Docker-000?style=flat-square&logo=docker)
@@ -45,7 +49,10 @@
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=F90)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
-
+![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=flat-square&logo=digitalocean)
+![cPanel](https://img.shields.io/badge/-cPanel-000?style=flat-square&logo=cpanel)
+![CyberPanel](https://img.shields.io/badge/-CyberPanel-000?style=flat-square&logo=cyberdefenders)
+![BT Panel](https://img.shields.io/badge/-BT%20Panel-000?style=flat-square)
 </div>
 
 ---
