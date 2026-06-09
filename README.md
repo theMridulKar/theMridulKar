@@ -50,11 +50,16 @@
 ![Apache](https://img.shields.io/badge/-Apache-000?style=flat-square&logo=apache)
 ![Linux](https://img.shields.io/badge/-Linux-000?style=flat-square&logo=linux)
 ![AWS](https://img.shields.io/badge/-AWS-000?style=flat-square&logo=amazonaws&logoColor=F90)
-![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?style=flat-square&logo=digitalocean)
 ![cPanel](https://img.shields.io/badge/-cPanel-000?style=flat-square&logo=cpanel)
 ![CyberPanel](https://img.shields.io/badge/-CyberPanel-000?style=flat-square&logo=cyberdefenders)
 ![BT Panel](https://img.shields.io/badge/-BT%20Panel-000?style=flat-square)
+
+### <samp>Version Control & Tools</samp>
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logo=git)
+![GitHub](https://img.shields.io/badge/-GitHub-000?style=flat-square&logo=github)
+![GitLab](https://img.shields.io/badge/-GitLab-000?style=flat-square&logo=gitlab)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-000?style=flat-square&logo=bitbucket)
 </div>
 
 ---
