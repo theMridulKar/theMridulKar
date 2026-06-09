@@ -27,6 +27,8 @@
 ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat-square&logo=typescript)
 ![HTML5](https://img.shields.io/badge/-HTML5-000?style=flat-square&logo=html5)
 ![CSS3](https://img.shields.io/badge/-CSS3-000?style=flat-square&logo=css3)
+![BOOTSTRAP](https://img.shields.io/badge/-BOOTSTRAP-000?style=flat-square&logo=bootstrap)
+![TAILWIND](https://img.shields.io/badge/-TAILWIND-000?style=flat-square&logo=tailwind)
 ![SQL](https://img.shields.io/badge/-SQL-000?style=flat-square&logo=mysql)
 
 ### <samp>Frameworks & Technologies</samp>
