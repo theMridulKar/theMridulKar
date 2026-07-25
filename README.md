@@ -1,5 +1,5 @@
 <h3 align="center">
-    <samp> Hey There!, I am <b><a target="_blank" href="https://shahriarshafin.github.io/">Mridul Kar</a></b></samp>
+    <samp> Hey There!, I am <b><a target="_blank" href="https://theMridulKar.github.io/">Mridul Kar</a></b></samp>
 </h3>
 
 <div align="center">
